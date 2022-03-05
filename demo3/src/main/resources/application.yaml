@@ -1,0 +1,8 @@
+#开启SpringMVC的HiddenHttpMethodFilter
+spring:
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: true
+    contentnegotiation:
+      favor-parameter: true

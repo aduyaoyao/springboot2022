@@ -1,0 +1,24 @@
+person:
+  userName: zhangsan
+  boss: true
+  bitrh: 2019/12/9
+  age: 18
+  pet:
+    name: tomcat
+    weight: 23.4
+  interests: [篮球，足球]
+  animal:
+    - pig
+    - dog
+    - cat
+  score:
+    english: 80
+    math: 92
+  salarys:
+    - 1.0
+    - 2.0
+  allPets:
+    sick:
+      - { name: tom,weight: 50 }
+      - { name: jerry,weight: 47 }
+    health: [ { name: mario,weight: 47 } ]
